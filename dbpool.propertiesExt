@@ -1,0 +1,9 @@
+easytickets.maxsize=20 
+name=easytickets
+easytickets.password=123456
+drivers=com.microsoft.sqlserver.jdbc.SQLServerDriver
+easytickets.user=sa
+easytickets.maxpool=10
+easytickets.idleTimeout=300
+easytickets.url=jdbc:sqlserver://localhost:1433;databaseName=BuyTicketOnline;
+easytickets.minpool=2
