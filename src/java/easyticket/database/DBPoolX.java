@@ -171,7 +171,7 @@ public class DBPoolX {
         if(poolX.getConnection() != null) System.out.println("success");
         else System.out.println("fail");
 //        System.out.println(Encrypter.decrypt("rRhG3MrMguo="));
-        System.out.println(Encrypter.encrypt("123456"));
+        System.out.println(Encrypter.encrypt("1234567"));
 //        String test = "20.png";
 //        System.out.println(test.substring(test.lastIndexOf(".")));
     }
